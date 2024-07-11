@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stkarydas@gmail.com
+	name = Stelios Karydas
